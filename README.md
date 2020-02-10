@@ -1,7 +1,5 @@
 # 欢迎来到 Gitrunning 奔跑小将训练营！
-
 ## Support or Contact
-
 奔跑小将训练营分享专业的运动训练方法,基于心率设备训练的无伤奔跑训练课程。
 - [目前线上学员]：30 人
 - [课程发布网站]：https://johny2020.github.io/gitrunning/
