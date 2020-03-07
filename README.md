@@ -6,6 +6,6 @@
 
 ### 更好的运动，要从全“心”开始。
 #### 课程发布网站：https://johny2020.github.io/gitrunning/
-#### 课程发布微信订阅公众号：张江软件 【 ID：zjsoft_tech 】
-#### 课程线上微信交流群：在公众号回复 “加群”
+#### 课程发布微信公众订阅号：张江软件 【 ID：zjsoft_tech 】
+#### 课程线上微信交流群：在公众号后台回复 “加群” 
 ## Support or Contact
